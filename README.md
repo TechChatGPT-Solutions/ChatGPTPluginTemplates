@@ -12,7 +12,9 @@ Welcome to the official collection of ChatGPT plugin templates based on the Flas
 
 Step 1. Choose the template that best suits your plugin idea from the directory.
 
-Step 2: Deploy the contents on https://replit.com/.
+Step 2: Connect to the online database at https://api.elephantsql.com or any other API of your choice.
+
+Step 3: Deploy the contents on https://replit.com/.
 
 
 Once the replit server is running:
@@ -22,3 +24,9 @@ Once the replit server is running:
 3. Select "Plugin store"
 4. Select "Develop your own plugin"
 5. Enter "replit URL" and then select "Find manifest file".
+
+OpenAPI 3.0 generation URL: https://editor.swagger.io/
+
+
+
+
