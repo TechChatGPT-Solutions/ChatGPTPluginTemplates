@@ -1,4 +1,4 @@
-# ChatGPT plugins
+# ChatGPT plugins templates
 Welcome to the official collection of ChatGPT plugin templates based on the Flask framework in Python, deployed on Replit. These templates provide a starting point for developing your own ChatGPT plugins using the Flask web framework.
 
 ## Features
