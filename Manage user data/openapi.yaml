@@ -1,0 +1,85 @@
+openapi: 3.0.1
+info:
+  title: UserManagement
+  description: Plugin for managing user data
+  version: 1.0.0
+servers:
+  - url: https://openaiplugin2--chao-gu-ge-lei.repl.co
+paths:
+  /:
+    post:
+      operationId: insertUser
+      summary: Insert user data
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                username:
+                  type: string
+                email:
+                  type: string
+      responses:
+        '200':
+          description: OK
+  /query:
+    post:
+      operationId: QueryUser
+      summary: Query user data
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                username:
+                  type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                  data:
+                    type: object  
+  /delete:
+    post:
+      operationId: deleteUser
+      summary: Delete a user
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                username:
+                  type: string
+              required:
+                - username
+      responses:
+        '200':
+          description: User has been deleted from the database
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: User does not exist in the database
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
