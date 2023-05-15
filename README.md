@@ -29,6 +29,6 @@ OpenAPI 3.0 generation URL: https://editor.swagger.io/
 
 
 ## Example
-![Cat or Dog image]("https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Cat%20or%20Dog%20Image/截屏2023-05-16%2007.33.12.png")
+![Cat or Dog image](https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Cat%20or%20Dog%20Image/截屏2023-05-16%2007.33.12.png)
 
 
