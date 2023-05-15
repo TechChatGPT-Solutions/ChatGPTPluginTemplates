@@ -1,0 +1,34 @@
+openapi: 3.0.1
+info:
+  title: Random Cat or Dog Image
+  description: A plugin to get a random cat or dog image .
+  version: 'v1'
+servers:
+  - url: https://openaiplugin--chao-gu-ge-lei.repl.co
+paths:
+  /cat:
+    get:
+      operationId: getcatImage
+      summary: Get a random cat image
+      description: This operation returns a HTML page with a random cat image.
+      responses:
+        200:
+          description: A HTML page with a random cat image
+          content:
+            text/html:
+              schema:
+                type: string
+                example: "<img src=\"http://example.com/cat.jpg\" />"
+  /dog:
+    get:
+      operationId: getdogImage
+      summary: Get a random dog image
+      description: This operation returns a HTML page with a random dog image.
+      responses:
+        200:
+          description: A HTML page with a random dog image
+          content:
+            text/html:
+              schema:
+                type: string
+                example: "<img src=\"http://example.com/dog.jpg\" />"

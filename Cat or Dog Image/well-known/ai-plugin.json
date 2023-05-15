@@ -1,0 +1,19 @@
+  {
+    "schema_version": "v1",
+    "name_for_human": "CatorDogImage",
+    "name_for_model": "CatorDogImage",
+    "description_for_human": "Plugin for getting a random cat or dog image.",
+    "description_for_model": " Plugin for getting a random cat or dog image.",
+    "auth": {
+      "type": "none"
+    },
+    "api": {
+      "type": "openapi",
+      "url": "https://openaiplugin--chao-gu-ge-lei.repl.co/openapi.yaml",
+      "is_user_authenticated": false
+    },
+    "logo_url": "https://openaiplugin--chao-gu-ge-lei.repl.co/logo.png",
+    "contact_email": "cpagym@gmail.com",
+    "legal_info_url": "http://example.com/legal"
+  }
+  
