@@ -10,11 +10,11 @@ Welcome to the official collection of ChatGPT plugin templates based on the Flas
 
 ## Usage
 
-Step 1. Choose the template that best suits your plugin idea from the directory.
+- Step 1. Choose the template that best suits your plugin idea from the directory.
 
-Step 2: Connect to the online database at https://api.elephantsql.com or any other API of your choice.
+- Step 2: Connect to the online database at https://api.elephantsql.com or any other API of your choice.
 
-Step 3: Deploy the contents on https://replit.com/.
+- Step 3: Deploy the contents on https://replit.com/.
 
 
 Once the replit server is running:
