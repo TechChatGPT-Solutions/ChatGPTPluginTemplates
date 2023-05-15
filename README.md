@@ -28,5 +28,7 @@ Once the replit server is running:
 OpenAPI 3.0 generation URL: https://editor.swagger.io/
 
 
+## Example
+![Screenshot]([https://example.com/path/to/截屏2023-05-16%2007.33.12.png](https://github.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/blob/b601129d8ef10fde8abe3a2c741e15ecf08b6458/Cat%20or%20Dog%20Image/%E6%88%AA%E5%B1%8F2023-05-16%2007.33.12.png))
 
 
