@@ -10,13 +10,12 @@ Welcome to the official collection of ChatGPT plugin templates based on the Flas
 
 ## Usage
 
-1. Choose the template that best suits your plugin idea from the `templates` directory.
+Step 1. Choose the template that best suits your plugin idea from the directory.
 
-2. Clone the template repository to your local machine:
+Step 2: Deploy the contents on https://replit.com/.
 
-```bash
-git clone https://github.com/your-username/chatgpt-plugin-template.git
-Once the local server is running:
+
+Once the replit server is running:
 
 1. Navigate to https://chat.openai.com. 
 2. In the Model drop down, select "Plugins" (note, if you don't see it there, you don't have access yet).
