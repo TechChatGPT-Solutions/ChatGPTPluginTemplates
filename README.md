@@ -31,6 +31,6 @@ OpenAPI 3.0 generation URL: https://editor.swagger.io/
 ## Example
 - Cat or Dog Image
 
-<img src="[https://example.com/path/to/截屏2023-05-16%2007.33.12.png](https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Cat%20or%20Dog%20Image/截屏2023-05-16%2007.33.12.png)" alt="Screenshot" width="400" height="300">
+<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Cat%20or%20Dog%20Image/截屏2023-05-16%2007.33.12.png" alt="Screenshot" width="400" height="300">
 
 
