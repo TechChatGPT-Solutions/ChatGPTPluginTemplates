@@ -1,0 +1,19 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Kedu",
+    "name_for_model": "readability",
+    "description_for_human": "Plugin for accessing financial reports of Chinese listed companies.",
+    "description_for_model": " Plugin for accessing financial reports of Chinese listed companies.",
+    "auth": {
+      "type": "none"
+    },
+    "api": {
+      "type": "openapi",
+      "url": "https://openaiplugin-1--chao-gu-ge-lei.repl.co/openapi.yaml",
+      "is_user_authenticated": false
+    },
+    "logo_url": "https://openaiplugin-1--chao-gu-ge-lei.repl.co/logo.png",
+    "contact_email": "cpagym@gmail.com",
+    "legal_info_url": "http://example.com/legal"
+  }
+  
