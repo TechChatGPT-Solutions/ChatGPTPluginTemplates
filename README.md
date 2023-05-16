@@ -31,12 +31,12 @@ OpenAPI 3.0 generation URL: https://editor.swagger.io/
 ## Example
 - Cat or Dog Image
 
-<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Cat%20or%20Dog%20Image/截屏2023-05-16%2007.33.12.png" alt="Screenshot" width="600" height="450">
+<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Cat%20or%20Dog%20Image/截屏2023-05-16%2007.33.12.png" alt="Screenshot" width="800" height="450">
 
 - Manage user data
 
-<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Manage%20user%20data/截屏2023-05-16%2007.50.18.png" alt="Screenshot" width="600" height="450">
+<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Manage%20user%20data/截屏2023-05-16%2007.50.18.png" alt="Screenshot" width="800" height="450">
 
 - Todo
-<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/To%20do/截屏2023-05-16%2008.01.34.png" alt="Screenshot" width="600" height="450">
+<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/To%20do/截屏2023-05-16%2008.01.34.png" alt="Screenshot" width="800" height="450">
 
