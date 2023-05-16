@@ -35,8 +35,8 @@ OpenAPI 3.0 generation URL: https://editor.swagger.io/
 
 - Manage user data
 
-<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Manage%20user%20data/截屏2023-05-16%2007.50.18.png" alt="Screenshot" width="700" height="530">
+<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/Manage%20user%20data/截屏2023-05-16%2007.50.18.png" alt="Screenshot" width="700" height="430">
 
 - Todo
-<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/To%20do/截屏2023-05-16%2008.01.34.png" alt="Screenshot" width="700" height="530">
+<img src="https://raw.githubusercontent.com/TechChatGPT-Solutions/ChatGPTPluginTemplates/main/To%20do/截屏2023-05-16%2008.01.34.png" alt="Screenshot" width="700" height="330">
 
